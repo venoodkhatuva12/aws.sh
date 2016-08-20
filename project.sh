@@ -1,5 +1,6 @@
 #!/bin/bash
- 
+#Author: Vinod.N K
+#Distro : Linux -Centos, Rhel, and any fedora
 # Purpose :: Auto shutdown trigger based on  memory and Java process
 # Date    :: Tue Dec  4 12:36:22 IST 2015
  
